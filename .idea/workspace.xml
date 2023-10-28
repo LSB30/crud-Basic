@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4da6a1c7-a9bd-42c7-871e-f845d0f54eb7" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/belato/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/belato/dao/ClienteMapDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/belato/dao/ClienteMapDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/belato/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/belato/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
