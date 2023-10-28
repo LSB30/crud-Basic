@@ -28,8 +28,10 @@ public class App {
 
     private static boolean isOpcaoValida(String opcao) {
         if("1".equals(opcao) || "2".equals(opcao) || "3".equals(opcao) || "4".equals(opcao)) {
-
+            return true;
         }
+
+        return false;
     }
 
     private static void sair() {
